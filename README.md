@@ -19,8 +19,8 @@ Project Overview: Providing valuable insights on the Udemy Courses.
 
 > Other findings you can find in the attached report
 
+![ud12-1](https://github.com/praveen0511/Udemy_Course_Analysis/assets/52094094/f651aceb-f649-4a6a-801f-419889bd53ff)
 
-![udemy123-1](https://github.com/praveen0511/Udemy_Course_Analysis/assets/52094094/5729fcad-de27-4ccd-8179-e05795032855)
 
 
 

@@ -16,3 +16,9 @@ Project Overview: Providing valuable insights on the Udemy Courses.    📌 Task
 
 
 >Other findings you can find in the attached report
+
+
+![udemy123-1](https://github.com/praveen0511/Udemy_Course_Analysis/assets/52094094/5729fcad-de27-4ccd-8179-e05795032855)
+
+
+

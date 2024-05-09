@@ -18,6 +18,9 @@ Project Overview: Providing valuable insights on the Udemy Courses.
 
 
 > Other findings you can find in the attached report
+![p5](https://github.com/praveenkumarbarange/P5-Onyx-Udemy-Courses-Analysis-with-Power-BI/assets/52094094/f620eb07-5ad9-4348-b8dd-d920e521116f)
+>
+> 
 
 ![ud12-1](https://github.com/praveen0511/Udemy_Course_Analysis/assets/52094094/f651aceb-f649-4a6a-801f-419889bd53ff)
 
